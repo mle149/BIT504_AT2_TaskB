@@ -15,7 +15,7 @@ public class Main extends JFrame {
 		});
 	} // end of main method
 
-	
+	System.out.println("Look at my awesome changes i'm making to my pong game");
 	
 	
 	
