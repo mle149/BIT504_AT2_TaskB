@@ -1,4 +1,4 @@
 
 public enum Player {
-	One, Two
+	One, Two, Three
 }
